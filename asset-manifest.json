@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/score-card/static/css/main.a617e044.chunk.css",
+    "main.js": "/score-card/static/js/main.1326bbf7.chunk.js",
+    "main.js.map": "/score-card/static/js/main.1326bbf7.chunk.js.map",
+    "runtime-main.js": "/score-card/static/js/runtime-main.4300a0f9.js",
+    "runtime-main.js.map": "/score-card/static/js/runtime-main.4300a0f9.js.map",
+    "static/js/2.ba60c887.chunk.js": "/score-card/static/js/2.ba60c887.chunk.js",
+    "static/js/2.ba60c887.chunk.js.map": "/score-card/static/js/2.ba60c887.chunk.js.map",
+    "static/js/3.63a9d5b6.chunk.js": "/score-card/static/js/3.63a9d5b6.chunk.js",
+    "static/js/3.63a9d5b6.chunk.js.map": "/score-card/static/js/3.63a9d5b6.chunk.js.map",
+    "index.html": "/score-card/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/score-card/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ba60c887.chunk.js.LICENSE.txt": "/score-card/static/js/2.ba60c887.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/score-card/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4300a0f9.js",
+    "static/js/2.ba60c887.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1326bbf7.chunk.js"
+  ]
+}
